@@ -1,6 +1,5 @@
-package starting.java.tutorials;
-
 import java.util.Scanner;
+
 /**
  * Created by Dheshan on 9/8/2015.
  * Calculate the price for posting a courier if the courier company demands Rs.50 for posting Rs.1 for every gram above
