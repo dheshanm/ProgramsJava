@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Created by Dheshan M (@D-codex) on 11/21/2015.
  */
 public class armstrongLike {
-    public static void main(String ar[])throws IOException
+    public static void main(String args[])throws IOException
     {
         int n,n1,n2,c=0,d=0,e,f=0;
         Scanner in=new Scanner(System.in);
